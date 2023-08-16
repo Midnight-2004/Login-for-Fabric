@@ -1,3 +1,8 @@
+##等待重修中
+初步想法是将此mod迁移至1.17+版本，但我现在没时间（逃）
+
+-----
+
 # Login
 Fabric mod for Minecraft: Java Edition to protect offline mode servers adding /login and /register. This is a server-side mod, clients don't have to download it.
 
